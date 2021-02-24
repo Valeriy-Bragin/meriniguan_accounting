@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#43ab00</color>
+    <color name="colorPrimaryExpense">#FB2B2B</color>
+    <color name="colorPrimaryDark">#007b00</color>
+    <color name="colorAccent">#43ab00</color>
+    <color name="colorIncome">@android:color/holo_green_light</color>
+    <color name="colorExpense">@android:color/holo_red_light</color>
+    <color name="textDefaultColor">#8a000000</color>
+</resources>

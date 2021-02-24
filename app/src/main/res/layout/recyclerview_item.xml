@@ -1,0 +1,67 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="4dp"
+    android:layout_margin="2dp">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:weightSum="10"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/dateTextView"
+            android:layout_weight="1.9"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="26.11.2020 16:47"
+            android:layout_marginStart="2dp"
+            android:textColor="@color/textDefaultColor"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/plusOrMinusTextView"
+            android:layout_weight="0.4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="+"
+            android:textSize="20sp"
+            android:layout_marginStart="5dp"
+            android:textColor="@color/textDefaultColor"/>
+
+        <TextView
+            android:id="@+id/differenceTextView"
+            android:layout_weight="1.8"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="2dp"
+            android:textSize="20sp"
+            android:text="10000"
+            android:textColor="@color/textDefaultColor"/>
+
+        <TextView
+            android:id="@+id/reasonTextView"
+            android:layout_weight="3.4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="4dp"
+            android:text="Daddy gave"
+            android:textColor="@color/textDefaultColor"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/moneyAmountTextView"
+            android:layout_weight="2.4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="3dp"
+            android:text="1000000"
+            android:textSize="20sp"
+            android:textColor="@color/textDefaultColor"/>
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

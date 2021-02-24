@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Meriniguan Accounting</string>
+    <string name="clear_data">Очистить данные</string>
+    <string name="date">Дата</string>
+    <string name="difference">Разница</string>
+    <string name="reason">Причина</string>
+    <string name="date_with_colon">Дата:</string>
+    <string name="reason_with_colon">Причина:</string>
+    <string name="amount">Кол-во</string>
+    <string name="theme">Тема</string>
+    <string name="light">Светлая</string>
+    <string name="dark">Тёмная</string>
+    <string name="set_by_battery_saver">Устанавливается функцией экономии заряда батареи</string>
+    <string name="data_saved">Данные сохранены</string>
+    <string name="insertion_of_data_in_the_table_failed">Добавление данных не удалось</string>
+    <string name="editing_of_data_in_table_failed">Редактирование данных не удалось</string>
+    <string name="deleting_of_data_from_table_failed">Удаление данных не удалось</string>
+    <string name="tap_delete_button_again_to_delete_item">Нажмите кнопку удаление ещё раз чтобы удалитть элемент</string>
+    <string name="add">Добавить</string>
+    <string name="cancel">Отменить</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="clear">Очистить</string>
+    <string name="do_you_really_want_to_clear_data">Вы действительно хотите очистить данные?</string>
+    <string name="income">Доход</string>
+    <string name="expense">Расход</string>
+    <string name="edit_item">Редактирование</string>
+    <string name="item_is_deleted">Элемент удалён</string>
+    <string name="enter_reason">Введите причину</string>
+    <string name="enter_date">Введите дату</string>
+    <string name="enter_a_date">Введите дату</string>
+    <string name="enter_a_difference">Введите разницу</string>
+    <string name="enter_a_reason">Введите причину</string>
+    <string name="enter_plus_or_minus">Введите + или -</string>
+    <string name="settings">Настройки</string>
+    <string name="about">О приложении</string>
+    <string name="app_description">Это очень интересно и увлекательно вести утчёт расходов и доходов с этим красивым и удобным приложением разработанным корпорацией Meriniguan.</string>
+</resources>
